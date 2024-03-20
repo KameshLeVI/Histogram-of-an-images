@@ -90,6 +90,7 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 ![Screenshot 2024-03-20 100945](https://github.com/KameshLeVI/Histogram-of-an-images/assets/120780633/d3cca3fb-0550-4a6b-9aaf-9076421a8fa8)
+
 ![Screenshot 2024-03-20 100958](https://github.com/KameshLeVI/Histogram-of-an-images/assets/120780633/b17f04b3-8724-475e-aa0e-42542b698097)
 
 
@@ -100,6 +101,7 @@ cv2.destroyAllWindows()
 
 ### Histogram Equalization of Grayscale Image.
 ![Screenshot 2024-03-20 101206](https://github.com/KameshLeVI/Histogram-of-an-images/assets/120780633/5b0fc188-1bef-4154-a72c-bad21077f557)
+
 ![Screenshot 2024-03-20 101224](https://github.com/KameshLeVI/Histogram-of-an-images/assets/120780633/5ea38e22-880b-4519-92df-d6995b88e757)
 
 ## Result: 
