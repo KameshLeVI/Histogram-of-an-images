@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
- Developed By: Sivabalan S  
- Register Number: 212222240100
+ Developed By: Kamesh D
+ Register Number: 212222240043
 ```
 
 ### Input Grayscale Image and Color Image :
